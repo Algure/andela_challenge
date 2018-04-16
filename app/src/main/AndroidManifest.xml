@@ -13,7 +13,6 @@
             android:screenOrientation="portrait">
 
         </activity>
-        <activity android:name=".welcome" />
         <activity android:name=".selector" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
