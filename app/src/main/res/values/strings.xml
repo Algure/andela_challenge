@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tictactoe</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select">Select number of GAMES</string>
+    <string name="selecttype">Select Player type</string>
+    <string name="cpuselect">CPU mode selected</string>
+    <string name="playerselect">2 Player mode selected</string>
+    <string name="numnota">value out of range</string>
+    <string name="typenots">Type not selected</string>
+    <string name="done">Play</string>
+    <string name="no">No</string>
+    <string name="selecttpe">Select Player 1 mode</string>
+</resources>
